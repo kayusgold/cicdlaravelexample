@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - staging
+      - main
 
 jobs:
   app-tests:
